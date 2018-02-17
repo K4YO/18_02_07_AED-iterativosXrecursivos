@@ -1,0 +1,6 @@
+C:\Users\1078262\Documents\GitHub\18_02_07_AED-iterativosXrecursivos\08_02_2018_AED\bin\Debug\08_02_2018_AED.exe.config
+C:\Users\1078262\Documents\GitHub\18_02_07_AED-iterativosXrecursivos\08_02_2018_AED\bin\Debug\08_02_2018_AED.exe
+C:\Users\1078262\Documents\GitHub\18_02_07_AED-iterativosXrecursivos\08_02_2018_AED\bin\Debug\08_02_2018_AED.pdb
+C:\Users\1078262\Documents\GitHub\18_02_07_AED-iterativosXrecursivos\08_02_2018_AED\obj\Debug\08_02_2018_AED.csprojResolveAssemblyReference.cache
+C:\Users\1078262\Documents\GitHub\18_02_07_AED-iterativosXrecursivos\08_02_2018_AED\obj\Debug\08_02_2018_AED.exe
+C:\Users\1078262\Documents\GitHub\18_02_07_AED-iterativosXrecursivos\08_02_2018_AED\obj\Debug\08_02_2018_AED.pdb
